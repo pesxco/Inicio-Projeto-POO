@@ -1,0 +1,12 @@
+<?php 
+
+Class Aluno
+{
+	public function index(){
+		echo 'index aluno';
+	}
+	
+	public function aep(){
+		echo 'faca a aep':
+	}
+}
